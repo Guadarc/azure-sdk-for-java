@@ -3,10 +3,10 @@
 This project provides a client library in Java that makes it easy to consume Microsoft Azure services. For documentation please see the [Microsoft Azure Java Developer Center](http://azure.microsoft.com/en-us/develop/java/).
 
 
-#Features
+#Features 
 
 
-* Service Bus
+* Service Bus 
     * Queues
         * Create/Read/Update/Delete queues
         * Send/Receive/Unlock/Delete messages
