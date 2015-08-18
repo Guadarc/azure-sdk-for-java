@@ -11,7 +11,7 @@ This project provides a client library in Java that makes it easy to consume Mic
         * Create/Read/Update/Delete queues
         * Send/Receive/Unlock/Delete messages
         * Renew message lock
-        * Message forwarding
+        * Message forwarding 
     * Topics
         * Create/Read/Update/Delete topics
         * Create/Read/Update/Delete subscriptions
